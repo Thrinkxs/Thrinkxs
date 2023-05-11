@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Airbnb Clone](https://github.com/Thrinkxs/AirBnB_clone-2)  
   
 
-- 🌱 I’m currently learning ReactJs and AWS  
+- 🌱 I’m currently learning ReactJs and Typescript  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
