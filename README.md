@@ -1,18 +1,10 @@
 ### Hi there 👋
-
-
 <div align="center">
 <img src="21004063.jpg" align="center" style="width: 30%" />
 </div>  
-  
-
-
-
-### Hey  
+ 
 ### <div align="center">I'm Thrinkxs, a full-time freelance full-stack  developer 👨‍💻 working remotely </div>  
   
-
-
 
 ### What I'm currently doing  
 - 🔭 I’m currently working on [astudentsdream](https://astudentsdream.co.za) and open source projects  
