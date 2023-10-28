@@ -3,7 +3,7 @@
 <img src="21004063.jpg" align="center" style="width: 30%" />
 </div>  
  
-### <div align="center">I'm Thrinkxs, a full-time freelance full-stack  developer 👨‍💻 working remotely </div>  
+### <div align="center">I'm Thrinkxs, a software engineer 👨‍💻 who loves building amazing products 🦾 </div>  
   
 
 ### What I'm currently doing  
