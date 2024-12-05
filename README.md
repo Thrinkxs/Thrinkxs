@@ -7,7 +7,7 @@
   
 
 ### What I'm currently doing  
-- 🔭 I’m currently working on [astudentsdream](https://astudentsdream.co.za) and [wasty wealth](https://wastywealth.com) and open source projects  
+- 🔭 I’m currently working on [Muze Studios](https://themuzestudios.com) and [Swiftbooked](https://swiftbooked.com) and open source projects  
   
 
 - 🌱 I’m currently learning AI and Machine Learning  
